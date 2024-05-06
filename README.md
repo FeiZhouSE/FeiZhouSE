@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome 👋
+
+I'm an experienced Frontend Engineer.
+
+React + TypeScript is my main tech stack in frontend and Node.js for backend.
+
+I enjoy incorporating toolings for a better development experience, e.g. Vite, Rollup, and Gulp, etc.
 
 <!--
 **FeiZhouFE/FeiZhouFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
